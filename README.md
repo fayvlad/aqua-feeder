@@ -5,3 +5,10 @@
 - Works via MQTT
 - OrangePi sends commands by cron
 - Can on/off light and feed fish by commands
+
+# Photos
+
+## 3d model
+![Anschluss](/1580250836407.jpg?raw=true)
+
+## Current view
