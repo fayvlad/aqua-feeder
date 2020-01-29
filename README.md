@@ -12,3 +12,6 @@
 ![Anschluss](/1580250836407.jpg?raw=true)
 
 ## Current view
+![Anschluss](/IMG_20200129_140336.jpg?raw=true)
+
+![Anschluss](/IMG_20200129_140347.jpg?raw=true)
